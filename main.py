@@ -1,4 +1,4 @@
 def funcImportante():
-	return "oi"
+	return "Hola"
 
 print(funcImportante())
